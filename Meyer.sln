@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meyer", "Meyer\Meyer.csproj", "{C2AAC4BA-005B-46E9-82B5-BABD37D66299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeyerTests", "MeyerTests\MeyerTests.csproj", "{4BF32173-8745-4F43-81D7-7845225636E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2AAC4BA-005B-46E9-82B5-BABD37D66299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AAC4BA-005B-46E9-82B5-BABD37D66299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AAC4BA-005B-46E9-82B5-BABD37D66299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AAC4BA-005B-46E9-82B5-BABD37D66299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF32173-8745-4F43-81D7-7845225636E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF32173-8745-4F43-81D7-7845225636E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF32173-8745-4F43-81D7-7845225636E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF32173-8745-4F43-81D7-7845225636E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8165147-854F-49F6-BC79-5451D887B857}
+	EndGlobalSection
+EndGlobal
